@@ -1,4 +1,4 @@
-# DATS6101_MIDTERM_PROJECT
+# General Social Survey Data Analysis
 
 This is the repository for the Master of Science in Data Science's DATS6101 subject's midterm project for Semester 1 in Fall 2022. This repository consists of an exploratory data analysis of the relationship between an individual's social class, work satisfaction, financial satisfaction, and general happiness using data from the General Social Survey conducted in the United States from 1972 to 2021.
 
